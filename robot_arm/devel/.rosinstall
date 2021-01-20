@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mmm/robot_arm/devel/setup.sh

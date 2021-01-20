@@ -1,0 +1,8 @@
+prefix=/home/mmm/robot_arm/devel
+
+Name: pc_control
+Description: Description of pc_control
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

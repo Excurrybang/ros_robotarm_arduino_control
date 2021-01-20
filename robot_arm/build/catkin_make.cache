@@ -1,0 +1,2 @@
+pc_control
+-DCATKIN_DEVEL_PREFIX=/mnt/hgfs/vmfolder/robot_arm/devel -DCMAKE_INSTALL_PREFIX=/mnt/hgfs/vmfolder/robot_arm/install -G Unix Makefiles
