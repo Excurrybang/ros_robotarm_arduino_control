@@ -2,3 +2,5 @@
 this code is about the robot arm control with arduino microcontroller.
 
 it's divided into two parts, one must be uploaded into Arudino microcontroller, the other can run in Ubuntu with ROS.
+
+the code was writed by C++
